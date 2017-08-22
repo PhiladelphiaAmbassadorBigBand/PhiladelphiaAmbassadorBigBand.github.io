@@ -1,2 +1,2 @@
 # PhiladelphiaAmbassadorBigBand.github.io
-A website for the Philadelphia Ambassador Big Band
+The official website for the Philadelphia Ambassador Big Band
